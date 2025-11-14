@@ -1,12 +1,36 @@
-*.ipch 
-.vs/ 
-.vs/ 
-*.ipch 
-.vs/ 
-*.ipch 
-*.VC.db 
-*.opendb 
-Debug/ 
-Release/ 
-x64/ 
-*.obj 
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/bin/
+**/build/
+**/out/
+
+# IntelliSense cache
+*.ipch
+*.VC.db
+*.VC.opendb
+
+# Compiled binaries
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.cache
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.ncb
+*.aps
