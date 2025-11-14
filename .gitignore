@@ -6,18 +6,18 @@
 *.sln.docstates
 
 # Build output
-**/Debug/
-**/Release/
-**/x64/
-**/x86/
-**/bin/
-**/build/
-**/out/
+Debug/
+Release/
+x64/
+x86/
+bin/
+build/
+out/
 
 # IntelliSense cache
 *.ipch
 *.VC.db
-*.VC.opendb
+*.opendb
 
 # Compiled binaries
 *.obj
@@ -28,7 +28,7 @@
 *.ilk
 *.cache
 
-# Temporary files
+# Logs & temp
 *.log
 *.tmp
 *.bak
