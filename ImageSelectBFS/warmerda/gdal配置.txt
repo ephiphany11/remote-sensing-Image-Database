@@ -1,0 +1,8 @@
+1、项目—>属性—>C/C++ —>附加包含目录
+C:\\warmerda\bld\include
+ 
+2、项目—>属性—>链接器 —>附加库目录
+C:\\warmerda\bld\lib
+
+3、项目—>属性—>链接器 —>输入—>附加依赖项
+gdal_i.lib

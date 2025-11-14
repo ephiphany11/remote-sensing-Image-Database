@@ -1,0 +1,12 @@
+*.ipch 
+.vs/ 
+.vs/ 
+*.ipch 
+.vs/ 
+*.ipch 
+*.VC.db 
+*.opendb 
+Debug/ 
+Release/ 
+x64/ 
+*.obj 
